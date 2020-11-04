@@ -14,4 +14,16 @@ window.onload = function () {
     vel.appendChild(src);
     document.body.appendChild(vel);
   }
+
+  const menuEl = document.getElementById("hamburger_menu_toggle");
+  const menuNavEl = document.getElementById("menu_nav");
+  menuEl.onclick = function () {
+    if (menuEl.className.includes("animate")) {
+      menuEl.classList.remove("animate");
+      menuNavEl.classList.remove("menu_open");
+    } else {
+      menuEl.classList.add("animate");
+      menuNavEl.classList.add("menu_open");
+    }
+  };
 };

@@ -17,27 +17,37 @@
     </video>
 
     <div class="overlay-color-bg" id="overlay-color"></div>
+    <div class="menu_mobile_responsive">
+      <div></div>
+      <div></div>
+    </div>
 
     <div class="container">
       <div class="mt-4 top_menu__container">
         <div class="top_menu__logo__container">
           <img src="/media/logo_medycall.png" alt="logo medycal" />
         </div>
-        <div>
-          <nav>
-            <ul class="menu">
-              <li><a class="menu__a" href="#!">خانه</a></li>
-              <li><a class="menu__a" href="#!">درباره مدیکال</a></li>
-              <li><a class="menu__a" href="#!">تماس با ما</a></li>
-              <li><a class="menu__a" href="#!">پرسش های متداول</a></li>
-            </ul>
-          </nav>
+
+        <div class="menu-wrapper">
+          <div class="hamburger-menu" id="hamburger_menu_toggle"></div>
         </div>
-        <div>
+
+        <nav id="menu_nav" class="top_menu__nav menu_close">
+          <ul class="menu">
+            <li><a class="menu__a" href="#!">خانه</a></li>
+            <li><a class="menu__a" href="#!">درباره مدیکال</a></li>
+            <li><a class="menu__a" href="#!">تماس با ما</a></li>
+            <li><a class="menu__a" href="#!">پرسش های متداول</a></li>
+            <li class="show_in_mobile">
+              <a class="whiteRoundedBtn" href="#">ورود / ثبت نام</a>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="top_menu__login_container">
           <a class="whiteRoundedBtn" href="#">ورود / ثبت نام</a>
         </div>
       </div>
-
       <div class="center-content-container">
         <h1>
           با مدیکال <br />در خانه بمانید و در سریع ترین <br />با پزشک خود صحبت
