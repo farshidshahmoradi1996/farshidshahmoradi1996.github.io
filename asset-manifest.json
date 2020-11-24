@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7cb16a08.chunk.css",
-    "main.js": "/static/js/main.c39abce9.chunk.js",
-    "main.js.map": "/static/js/main.c39abce9.chunk.js.map",
+    "main.js": "/static/js/main.c71e7469.chunk.js",
+    "main.js.map": "/static/js/main.c71e7469.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce927958.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce927958.js.map",
     "static/js/2.cadd9009.chunk.js": "/static/js/2.cadd9009.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.7cb16a08.chunk.css.map": "/static/css/main.7cb16a08.chunk.css.map",
     "static/js/2.cadd9009.chunk.js.LICENSE.txt": "/static/js/2.cadd9009.chunk.js.LICENSE.txt",
     "static/media/dist.css": "/static/media/Nunito-Light.1a3e4ea1.ttf",
-    "static/media/arrow-right.b8b75030.svg": "/static/media/arrow-right.b8b75030.svg",
+    "static/media/arrow-right.7089bf0a.svg": "/static/media/arrow-right.7089bf0a.svg",
     "static/media/banner-rounded-right.9ba6bd25.svg": "/static/media/banner-rounded-right.9ba6bd25.svg",
     "static/media/banner-rounded.eca4a6a8.svg": "/static/media/banner-rounded.eca4a6a8.svg",
     "static/media/banner.a223472d.png": "/static/media/banner.a223472d.png",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.ce927958.js",
     "static/js/2.cadd9009.chunk.js",
     "static/css/main.7cb16a08.chunk.css",
-    "static/js/main.c39abce9.chunk.js"
+    "static/js/main.c71e7469.chunk.js"
   ]
 }
