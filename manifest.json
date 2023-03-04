@@ -1,0 +1,137 @@
+{
+  "icons": [
+    {
+      "src": "icon_192.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_72x72.b4db55ae4673b843bafce2c916c2e7b6.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_1024x1024.ca3391259d86afb9b65d5212e83eaf83.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_1024x1024.ca3391259d86afb9b65d5212e83eaf83.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_512x512.9ae64e4c410012a6f71974506e34cd1e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_384x384.333852ba9ebdee12560dee0030866874.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_192x192.e4dd920a194bb5f474e3477889ed1ca5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_180x180.1123e7eb63af234804589b52a07bea0f.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_167x167.f640fadd5d3eb695158ea646c9f0334f.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_152x152.2b396ab52fb72aa732139c44f18d56b3.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_144x144.be7d4f345af91ddb8196eccff4ac38b4.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_128x128.d23eeb6cdd370adeeb5f78915ed1145d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_120x120.2269b3c8f7535c4fe4eb7700fdd03b72.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_96x96.7815a879d0c0d6385df87b905b196a98.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/v2/static/icon_72x72.b4db55ae4673b843bafce2c916c2e7b6.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "SnappMarket",
+  "short_name": "SnappMarket",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "اسنپ‌مارکت | خرید آنلاین از سوپرمارکت تا ۵۰٪ تخفیف",
+  "background_color": "#4b68fb",
+  "theme_color": "#fffeff"
+}
